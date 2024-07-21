@@ -1,0 +1,15 @@
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/bin/Debug/net6.0/criptografia-do-navio
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/bin/Debug/net6.0/criptografia-do-navio.deps.json
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/bin/Debug/net6.0/criptografia-do-navio.runtimeconfig.json
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/bin/Debug/net6.0/criptografia-do-navio.dll
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/bin/Debug/net6.0/ref/criptografia-do-navio.dll
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/bin/Debug/net6.0/criptografia-do-navio.pdb
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.csproj.AssemblyReference.cache
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.GeneratedMSBuildEditorConfig.editorconfig
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.AssemblyInfoInputs.cache
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.AssemblyInfo.cs
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.csproj.CoreCompileInputs.cache
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.dll
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/ref/criptografia-do-navio.dll
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.pdb
+/home/mint/Documentos/projetos/C#/criptografia-do-navio/obj/Debug/net6.0/criptografia-do-navio.genruntimeconfig.cache
